@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi there, I'm <a href="https://t.me/siletskiy_o" target="_blank">Oleg</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-  <p>
+  <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Python+developer+from+Russia&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - Oleg"/></a>
   </p>
 </h1>
