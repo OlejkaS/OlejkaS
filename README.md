@@ -4,8 +4,8 @@
 </h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olejkas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OlejkaS)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=OlejkaS)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olejkas)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>💬 Social</h3>
