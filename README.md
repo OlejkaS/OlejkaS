@@ -5,7 +5,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+developer;from+Russia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+developer+from+Russia)](https://git.io/typing-svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olejkas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
