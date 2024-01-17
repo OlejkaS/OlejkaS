@@ -3,10 +3,11 @@
 </div>
 <h1 align="center">Hi there, I'm <a href="https://t.me/siletskiy_o" target="_blank">Oleg</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-</h3>
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+developer+from+Russia)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Python+developer+from+Russia" alt="Typing SVG" /></a>
 </p>
+</h3>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olejkas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
