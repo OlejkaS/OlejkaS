@@ -14,7 +14,7 @@
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) - siletskiy_o<br>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - siletskiyoleg@gmail.com<br>
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) - @siletskiy_o<br>
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) - [@siletskiy_o](https://t.me/siletskiy_o)<br>
 
 <h3>📋 Languages:</h3>
 
